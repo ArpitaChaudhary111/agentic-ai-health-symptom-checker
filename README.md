@@ -85,7 +85,7 @@ Unique features include:
 
 - 🏅 IBM Getting Started with AI Badge 
 - 🏅 IBM RAG Lab certificate  
-(*See `/project-info/` for certificate screenshots*)
+(*See `/project-info/` for screenshots*)
 
 ---
 
@@ -95,6 +95,10 @@ This repository includes:
 - `README.md` — project summary and structure  
 - `project-info/` — screenshots, presentation, badges and certifications  
 - No source code (project built in IBM Cloud's Agent Lab)
+
+---
+
+📸 View project screenshots → [assets/screenshots](./assets/screenshots) 
 
 ---
 
@@ -110,3 +114,6 @@ Special thanks to the IBM SkillsBuild and Edunet Foundation team.
 **Arpita Chaudhary**  
 📧 [chaudharyarpitaa111@gmail.com]  
 🔗 [https://www.linkedin.com/in/arpitachaudhary/]
+ 
+ 
+
