@@ -85,7 +85,7 @@ Unique features include:
 
 - 🏅 IBM Getting Started with AI Badge 
 - 🏅 IBM RAG Lab certificate  
-(*See `/project-info/` for screenshots*)
+(*See `/assets/` for screenshots*)
 
 ---
 
@@ -93,7 +93,8 @@ Unique features include:
 
 This repository includes:
 - `README.md` — project summary and structure  
-- `project-info/` — screenshots, presentation, badges and certifications  
+- `assets/` — screenshots,badges and certifications
+- `docs/`- presentation 
 - No source code (project built in IBM Cloud's Agent Lab)
 
 ---
