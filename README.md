@@ -94,7 +94,7 @@ Unique features include:
 This repository includes:
 - `README.md` — project summary and structure  
 - `assets/` — screenshots,badges and certifications
-- `docs/`- presentation 
+- `docs/`- presentation/pdf and ipynb file 
 - No source code (project built in IBM Cloud's Agent Lab)
 
 ---
@@ -105,7 +105,7 @@ This repository includes:
 
 ## 🙏 Acknowledgements
 
-Built as part of an IBM SkillsBuild X Edunet Foundation X AICTE AI and Cloud Internship Project using IBM Cloud Lite.  
+Built as part of an IBM SkillsBuild X Edunet Foundation X AICTE AI and Cloud Internship Program using IBM Cloud Lite.  
 Special thanks to the IBM SkillsBuild and Edunet Foundation team.
 
 ---
@@ -117,4 +117,5 @@ Special thanks to the IBM SkillsBuild and Edunet Foundation team.
 🔗 [https://www.linkedin.com/in/arpitachaudhary/]
  
  
+
 
